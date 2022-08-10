@@ -1,4 +1,5 @@
-# ravi-uai-2022
-Code to accompany the paper "Recursive Monte Carlo and Variational Inference with Auxiliary Variables"
+# Code to accompany the paper "Recursive Monte Carlo and Variational Inference with Auxiliary Variables" (UAI 2022)
 
-Coming soon!
+## RAVI MCVI
+
+## RAVI Agglomerative Clustering
